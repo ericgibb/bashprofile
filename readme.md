@@ -5,4 +5,4 @@
 
 ## Installation ##
 
-`git clone git://github.com/ericgibb/bashprofile.git ~/.bashtest`
+`git clone git://github.com/ericgibb/bashprofile.git ~/.bash/`
